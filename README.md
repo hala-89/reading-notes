@@ -12,10 +12,12 @@ from yarmouk University
 
  i like to take this courses 
 
-thank you
+thank you.
 
-# Table of content
-subject| information
------- | ------
-1. |  [grwoth](https://hala-89.github.io/reading-notes/growth).
-1. |  [mark down](https://hala-89.github.io/reading-notes/Mardown) 
+# Table of content.
+
+|subject| information|
+|------ | ------|
+|1. |  [grwoth](https://hala-89.github.io/reading-notes/growth).|
+|2. |  [mark down](https://hala-89.github.io/reading-notes/Mardown)|
+|3. |  [read 2](https://hala-89.github.io/reading-notes/read2)|
