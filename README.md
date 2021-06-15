@@ -15,13 +15,7 @@ from yarmouk University
 thank you
 
 # Table of content
-
- 1. [grwoth ]
-  ( https://github.com/hala-89/reading-notes/read01)
-
-2. [mark down] (https://github.com/hala-89/reading-notes/read1)
-
 subject| information
 ------ | ------
-1. |  [grwoth](https://github.com/hala-89/reading-notes/read01).
-1. |  [mark down](https://github.com/hala-89/reading-notes/read1) 
+1. |  [grwoth](https://hala-89.github.io/reading-notes/growth).
+1. |  [mark down](https://hala-89.github.io/reading-notes/Mardown) 
