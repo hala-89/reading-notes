@@ -22,9 +22,10 @@ JavaScript can change HTML contentJavaScript can change HTML attributesJavaScrip
 Writing into the HTML outputWriting into an HTML elementWriting into an window alert boxWriting into the browser console
 
 ## JavaScript Syntax
-JavaScript statementsJavaScript numbersJavaScript stringsJavaScript variablesJavaScript operatorsJavaScript assignmentJavaScript expressions (using constants)JavaScript expressions (using strings)JavaScript expressions (using variables)JavaScript keywordsJavaScript commentsJavaScript is case sensitive
+JavaScript statementsJavaScript numbersJavaScript stringsJavaScript variablesJavaScript operatorsJavaScript assignmentJavaScript expressions (using constants)JavaScript expressions (using strings)JavaScript expressions (using variables)JavaScript keywordsJavaScript commentsJavaScript is case sensitive.
 
-![JavaScript](https://images.app.goo.gl/iJ1t8JcPxrR8xa3r9)
+
+
 
 
 ## refrances
