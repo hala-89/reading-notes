@@ -26,8 +26,6 @@ JavaScript statementsJavaScript numbersJavaScript stringsJavaScript variablesJav
 
 
 
-
-
 ## refrances
  [developer.mozilla](https://developer.mozilla.org)
 
