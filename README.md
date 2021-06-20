@@ -25,3 +25,4 @@ thank you.
 |5. |  [read 4](https://hala-89.github.io/reading-notes/read4).|
 |6. |  [read 5](https://hala-89.github.io/reading-notes/read5).|
 |7. |  [read 6](https://hala-89.github.io/reading-notes/read6).|
+|8. |  [read 7](https://hala-89.github.io/reading-notes/read7).|
