@@ -23,6 +23,7 @@
  * To create a paragraph, surround the words that make up the paragraph with an opening <p>tag and closing </p> tag.By default, a browser will show each paragraph on a new line with some space between it and any subsequent paragraphs. *
 
  ### HTML Text
+
   ![html texst](https://th.bing.com/th/id/R.fe7d598f2061ed193321a55b8f0da1dd?rik=m3k5bT64ZV5e1w&pid=ImgRaw ).
 
 
@@ -34,17 +35,15 @@
 
 * Different types of selectors allow you to target your Xrules at different elements.
 
+
 * Declarations are made up of two parts: 
 
-      * the properties Xof the element that you want to change, and the  
-      * values of those properties . For example, the          
-      font-family property sets the choice of font, and the value arial specifies Arial as the preferred typeface. 
+**the properties Xof the element that you want to change, and the  values of those properties . For example, the font-family property sets the choice of font, and the value arial specifies Arial as the preferred typeface.* 
       
 * CSS rules usually appear in a separate document, Xalthough they may appear within an HTML page.
 
 
-![cssintro](https://th.bing.com/th/id/OIP.c1xTA60X2MyKCfeEIyk0pwHaEK?pid=ImgDet&rs=1) .
-
+![css](https://cdn.educba.com/academy/wp-content/uploads/2019/03/Introduction-To-CSS.png)
 
 
 ## **SUMMARY BASIC JS INSTRUCTIONS*
