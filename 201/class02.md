@@ -24,7 +24,7 @@
 
  ### HTML Text
 
-  ![html texst](https://th.bing.com/th/id/R.fe7d598f2061ed193321a55b8f0da1dd?rik=m3k5bT64ZV5e1w&pid=ImgRaw ).
+  ![htmtex](https://th.bing.com/th/id/R.fe7d598f2061ed193321a55b8f0da1dd?rik=m3k5bT64ZV5e1w&pid=ImgRaw ).
 
 
 ## SUMMary IntroducIng cSS
@@ -43,7 +43,7 @@
 * CSS rules usually appear in a separate document, Xalthough they may appear within an HTML page.
 
 
-![css](https://cdn.educba.com/academy/wp-content/uploads/2019/03/Introduction-To-CSS.png)
+  ![css](https://cdn.educba.com/academy/wp-content/uploads/2019/03/Introduction-To-CSS.png ).
 
 
 ## **SUMMARY BASIC JS INSTRUCTIONS*
