@@ -30,14 +30,14 @@
 |2. |  [201/class02](https://hala-89.github.io/reading-notes/201/class02).|
 |3. |  [201/class03](https://hala-89.github.io/reading-notes/201/class03).|
 |4. |  [201/class04](https://hala-89.github.io/reading-notes/201/class04).|
-|5. |  [201/class05](https://hala-89.github.io/reading-notes/201/class05Images,Color,Text).|
+|5. |  [201/class05](https://hala-89.github.io/reading-notes/201/class05).|
 |6. |  [201/class06](https://hala-89.github.io/reading-notes/201/class06).|
 |7. |  [201/class07](https://hala-89.github.io/reading-notes/201/class07).|
 |8. |  [201/class08](https://hala-89.github.io/reading-notes/201/class08).|
 |9. |  [201/class09](https://hala-89.github.io/reading-notes/201/class09).|
-|10. |  [201/class10](https://hala-89.github.io/reading-notes/201/class10).|
-|11. |  [201/class11](https://hala-89.github.io/reading-notes/201/class11).|
-|12. |  [201/class12](https://hala-89.github.io/reading-notes/201/class12).|
-|13. |  [201/class13](https://hala-89.github.io/reading-notes/201/class13).|
-|14. |  [201/class14](https://hala-89.github.io/reading-notes/201/class14).|
-|15. |  [201/class15](https://hala-89.github.io/reading-notes/201/class15).|
+|10.|  [201/class10](https://hala-89.github.io/reading-notes/201/class10).|
+|11.|  [201/class11](https://hala-89.github.io/reading-notes/201/class11).|
+|12.|  [201/class12](https://hala-89.github.io/reading-notes/201/class12).|
+|13 |  [201/class13](https://hala-89.github.io/reading-notes/201/class13).|
+|14.|  [201/class14](https://hala-89.github.io/reading-notes/201/class14).|
+|15.|  [201/class15](https://hala-89.github.io/reading-notes/201/class15).|

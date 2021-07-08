@@ -2,7 +2,7 @@
 
 ## SUmmAryLists
 
- + >> ### There are three types of HTML lists: 
+ +  ### There are three types of HTML lists: 
     
     
      1-**ordered are lists where each item in the list is numbered*
@@ -23,26 +23,26 @@
          +  Inside the <dl> element you will usually see pairs of <dt> and <dd> elements.<dt>This is used to contain the term being defined (the definition term).
          +  <dd>This is used to contain the definition.]]
 
-      ![htmllist]( "https://i.pinimg.com/originals/9e/27/24/9e2724a6f388b70c341d0e149a093710.jpg").
+      ![htmllist]( https://i.pinimg.com/originals/9e/27/24/9e2724a6f388b70c341d0e149a093710.jpg).
 
 
     
 
 # CSS 
  ## summAry Boxes
-+ >> CSS treats each HTML element as if it has its own box.
++  CSS treats each HTML element as if it has its own box.
  
- + >>You can use CSS to control the dimensions of a box.
+ + You can use CSS to control the dimensions of a box.
  
- + >>You can also control the borders, margin and padding 
+ + You can also control the borders, margin and padding 
  
- + >>for each box with CSS.It is possible to hide elements using the display and Xvisibility properties.
+ + for each box with CSS.It is possible to hide elements using the display and Xvisibility properties.
  
- + >>Block-level boxes can be made into inline boxes, and inline boxes made into block-level boxes.
+ + Block-level boxes can be made into inline boxes, and inline boxes made into block-level boxes.
  
- + >>Legibility can be improved by controlling the width ofboxes containing text and the leading.
+ + Legibility can be improved by controlling the width ofboxes containing text and the leading.
  
- + >>CSS3 has introduced the ability to create image     borders and rounded borders.
+ + CSS3 has introduced the ability to create image     borders and rounded borders.
 
 ![cssboxes]( https://helpx.adobe.com/dreamweaver/how-to/use-css-to-style-divs/_jcr_content/main-pars/image_1.img.png/box-model.png ).
 
