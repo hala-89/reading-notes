@@ -30,7 +30,7 @@
 |2. |  [201/class02](https://hala-89.github.io/reading-notes/201/class02).|
 |3. |  [201/class03](https://hala-89.github.io/reading-notes/201/class03).|
 |4. |  [201/class04](https://hala-89.github.io/reading-notes/201/class04).|
-|5. |  [201/class05](https://hala-89.github.io/reading-notes/201/class05).|
+|5. |  [201/class05](https://hala-89.github.io/reading-notes/201/class05Images,Color,Text).|
 |6. |  [201/class06](https://hala-89.github.io/reading-notes/201/class06).|
 |7. |  [201/class07](https://hala-89.github.io/reading-notes/201/class07).|
 |8. |  [201/class08](https://hala-89.github.io/reading-notes/201/class08).|
