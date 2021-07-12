@@ -17,19 +17,27 @@ or column using the rowspan and colspan attributes.
  +  For long tables you can split the table into a <thead>,
 <tbody>, and <tfoot>.
 
-![htmltable]( https://i.imgur.com/uIwzEfS.png)
+
+
+
+![htmltable]( https://i.imgur.com/uIwzEfS.png )
+
+
+
+
+
+
 
 
 
 
 # Domain Modeling
+Domain modeling is the process of creating a conceptual model in code for a specific problem.
+ A model describes the various entities, their attributes and behaviors, 
+ as well as the constraints that govern the problem domain
 
 
-
-Domain modeling is the process of creating a conceptual model in code for a specific problem. A model describes the various entities, their attributes and behaviors, as well as the constraints that govern the problem domain
-
-
-## Here's some tips to follow when building your own domain models.
+##  some tips to follow when building your own domain models.
 
 + 1- When modeling a single entity that'll have many instances, build self-contained objects with the same attributes and behaviors.
 
@@ -42,6 +50,9 @@ Domain modeling is the process of creating a conceptual model in code for a spec
 + 5-Store the newly created object in a variable so you can access its properties and methods from outside.
 
 + 6-Use the this variable within methods so you can access the object's properties and methods from inside. 
+
+
+
 
 
 ## referanc
