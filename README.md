@@ -40,4 +40,5 @@
 |12.|  [201/class12](https://hala-89.github.io/reading-notes/201/class12).|
 |13 |  [201/class13](https://hala-89.github.io/reading-notes/201/class13).|
 |14.|  [201/class14a](https://hala-89.github.io/reading-notes/201/class14a).|
-|15.|  [201/class15](https://hala-89.github.io/reading-notes/201/class15).|
+|15.|  [201/class14b](https://hala-89.github.io/reading-notes/201/class14b).|
+|16.|  [201/class15](https://hala-89.github.io/reading-notes/201/class15).|
