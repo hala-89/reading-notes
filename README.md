@@ -39,5 +39,5 @@
 |11.|  [201/class11](https://hala-89.github.io/reading-notes/201/class11).|
 |12.|  [201/class12](https://hala-89.github.io/reading-notes/201/class12).|
 |13 |  [201/class13](https://hala-89.github.io/reading-notes/201/class13).|
-|14.|  [201/class14](https://hala-89.github.io/reading-notes/201/class14).|
+|14.|  [201/class14a](https://hala-89.github.io/reading-notes/201/class14a).|
 |15.|  [201/class15](https://hala-89.github.io/reading-notes/201/class15).|
